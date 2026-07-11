@@ -1,3 +1,73 @@
+# Python Basic
+
+## 中文
+
+### 项目简介
+这个仓库整理 Python 基础语法、常用库、文档笔记和 100 个入门练习案例，适合保留早期 Python 学习路径。
+
+### 项目类型
+Python 入门资料与练习归档 / Python basics and exercise archive
+
+### 功能特点
+- 包含 Python 基础语法、库使用和练习文档。
+- README 中保留 100 个练习案例说明。
+- 适合按案例复盘 Python 基础。
+
+### 安装方法
+当前未发现统一依赖或安装命令；多数示例可使用本机 Python 解释器运行。
+
+### 使用方法
+阅读下方原始练习记录，按案例复制或整理为 .py 文件运行。
+
+### 打包说明
+当前未发现构建命令。
+
+### 作者信息
+- 作者：HaoXiang Huang
+- 邮箱：[didadida1688@gmail.com](mailto:didadida1688@gmail.com)
+- 主页：[https://nextweb4.github.io/](https://nextweb4.github.io/)
+- GitHub：[https://github.com/NextWeb4](https://github.com/NextWeb4)
+
+### License
+当前未发现 LICENSE 文件。
+
+---
+
+## English
+
+### Project Introduction
+This repository archives Python syntax notes, library documents, and 100 introductory practice cases from an early Python learning path.
+
+### Project Type
+Python 入门资料与练习归档 / Python basics and exercise archive
+
+### Features
+- Includes Python syntax, library usage, and practice documents.
+- Keeps 100 practice-case notes in the README.
+- Useful for reviewing Python fundamentals by case.
+
+### Installation
+No unified dependency or installation command was detected; most examples can run with a local Python interpreter.
+
+### Usage
+Read the original exercise notes below, then copy or organize individual cases into .py files to run.
+
+### Build / Packaging
+No build command was detected.
+
+### Author
+- Author: HaoXiang Huang
+- Email: [didadida1688@gmail.com](mailto:didadida1688@gmail.com)
+- Homepage: [https://nextweb4.github.io/](https://nextweb4.github.io/)
+- GitHub: [https://github.com/NextWeb4](https://github.com/NextWeb4)
+
+### License
+No LICENSE file was detected.
+
+---
+
+## 原始练习记录 / Original Exercise Notes
+
 #### 实例001：数字组合
 **题目：**有四个数字：1、2、3、4，能组成多少个互不相同且无重复数字的三位数？各是多少？
 
