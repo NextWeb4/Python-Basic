@@ -4,6 +4,7 @@
 - `Python100Cases-master/001.py` through `100.py` are independent introductory exercises.
 - Root `.docx` files are reference material and are not Python package modules or runtime dependencies.
 - The repository is a historical learning archive, not an installable package.
+- Keep the audited inventory of 100 `.py`, 9 `.docx`, and 4 `.md` files synchronized with the complete tree.
 
 ## 2. Run commands
 - No repository-wide run command or supported Python version was found.
@@ -18,6 +19,8 @@
 - Do not introduce packaging or a site generator for a single exercise change.
 
 ## 5. Code style
+- Keep the exact centered Shields language selector in all root README files; its visible native labels are `English`, `简体中文`, and `日本語`.
+- Keep all three README versions aligned in section order, counts, paths, links, badge URLs, compatibility facts, and side-effect warnings.
 - Preserve each case as a standalone teaching example and keep its numeric filename stable.
 - Modernize removed APIs only in a deliberately scoped case, with behavior documented before and after.
 - README files use UTF-8 Markdown. No lint/format command was found in the current repository.
@@ -35,10 +38,12 @@
 
 ## 8. Completion criteria
 - A changed case has its expected input, output, side effects, and interpreter version recorded and verified.
+- Every README retains the detailed inventory, exercise map, per-case workflow, compatibility exceptions, validation limits, provenance, and maintenance guidance.
 - Documentation maps real numbered files, multilingual links work, and reference documents remain unchanged.
 - Any new dependency or generated file is justified and explicitly documented.
 
 ## 9. Review criteria
+- Verify the language selector renders through GitHub without browser-translatable text and all three README versions keep the same facts, commands, links, and images.
 - Review each changed script from input through state changes to output and filesystem effects.
 - Check removed APIs, integer/float behavior, GUI requirements, third-party imports, and current-working-directory assumptions.
 - Reject package-wide compatibility or test claims based on a small sample.
@@ -48,4 +53,3 @@
 - Case 095 needs an undeclared third-party package, and GUI examples may fail in headless environments.
 - File-I/O examples can overwrite local files in the current directory.
 - No license file clarifies redistribution rights for code or bundled documents.
-
