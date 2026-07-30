@@ -96,7 +96,9 @@ Keep English, Simplified Chinese, and Japanese READMEs aligned in section order,
 
 ## Provenance and license
 
-No repository license file is present. The scripts and bundled study documents may have different origins. Confirm authorship and permission before copying, modifying, or redistributing either code or documents.
+See [LICENSE](LICENSE). It is a rights and provenance notice, not an open-source license: it grants no permission to use, copy, modify, deploy, or redistribute original project material. Third-party material remains subject to its own rights and terms.
+
+The scripts and bundled study documents may have different origins. Confirm authorship and permission before copying, modifying, or redistributing either code or documents.
 
 ## Maintainer
 

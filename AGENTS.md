@@ -19,6 +19,7 @@
 - Do not introduce packaging or a site generator for a single exercise change.
 
 ## 5. Code style
+- The root `LICENSE` is a rights and provenance notice, not an open-source license. Preserve its no-grant language, third-party carve-out, rights holder, and exact contact address; do not replace it with an SPDX license without explicit authorization.
 - Keep the exact centered Shields language selector in all root README files; its visible native labels are `English`, `简体中文`, and `日本語`.
 - Keep all three README versions aligned in section order, counts, paths, links, badge URLs, compatibility facts, and side-effect warnings.
 - Preserve each case as a standalone teaching example and keep its numeric filename stable.
@@ -52,4 +53,4 @@
 - Historical examples may use removed APIs such as `time.clock()` or contain known teaching-code defects.
 - Case 095 needs an undeclared third-party package, and GUI examples may fail in headless environments.
 - File-I/O examples can overwrite local files in the current directory.
-- No license file clarifies redistribution rights for code or bundled documents.
+- The root rights and provenance notice grants no redistribution rights for code or bundled documents.
